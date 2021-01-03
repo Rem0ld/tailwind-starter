@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-starter",
+  "version": "1.0.0",
+  "description": "Project starter with tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rem0ld/tailwind-starter.git"
+  },
+  "author": "Pierre Lovergne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rem0ld/tailwind-starter/issues"
+  },
+  "homepage": "https://github.com/Rem0ld/tailwind-starter#readme",
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "tailwindcss": "^2.0.2"
+  }
+}
